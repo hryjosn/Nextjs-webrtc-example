@@ -76,7 +76,8 @@ const Demo = () => {
 
         };
         peer.ontrack = ({ streams }) => {
-            setRemoteList({ ...remoteList, [socketId]: streams[0] })
+            remoteList[socketId]=streams[0]
+            setRemoteList(remoteList)
         };
         return peer;
     };

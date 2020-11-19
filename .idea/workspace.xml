@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f142b706-f3a2-4109-9aed-9e28084fabcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Nextjs-webrtc-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +44,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605678992288</updated>
-      <workItem from="1605678993581" duration="9793000" />
+      <workItem from="1605678993581" duration="10018000" />
     </task>
+    <task id="LOCAL-00001" summary="Implement basic feature">
+      <created>1605708053888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605708053888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implement basic feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement basic feature" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1605708053722">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605708053722" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1605708153365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605708153365" />
     <state x="419" y="189" width="602" height="522" key="find.popup" timestamp="1605679528414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
